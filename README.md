@@ -12,19 +12,20 @@ Bookshelf App adalah aplikasi web sederhana untuk menambahkan, mengedit, mencari
 * 6| Website 'Responsif' terhadap ukuran layar
 
 ## Bookshelf App Snap Capture
-
-
+<p align="center">
+  <img src="app-capture.png" width="1000"/>
+</p>
 
 ## Struktur Proyek 
-📁 bookshelf-app-starter-project
-├── 📁 assets
-│   └── app-logo.svg
-├── 📁 css
-│   └── style.css
-├── 📁 js
-│   └── main.js
-├── index.html
-└── README.md
+📁 bookshelf-app-starter-project<br>
+├── 📁 assets <br>
+│   └── app-logo.svg <br>
+├── 📁 css <br>
+│   └── style.css <br>
+├── 📁 js <br>
+│   └── main.js <br>
+├── index.html <br>
+└── README.md <br>
 
 ## Persyaratan awal
 - Web Browser
@@ -32,7 +33,7 @@ Bookshelf App adalah aplikasi web sederhana untuk menambahkan, mengedit, mencari
 ## Cara Menjalankan  
 1. Clone repository:  
    ```bash
-   git clone <link-repo github>
+   git clone https://github.com/DumaSitorus/bookshelf-app.git
    ```
 2. Open html file in your browser
     ```bash
